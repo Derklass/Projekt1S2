@@ -66,7 +66,7 @@
                 android:id="@+id/BtMaps"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:layout_margin="10dp"
                 android:text="Search"
                 android:backgroundTint="@color/Grey"/>
 
@@ -74,7 +74,7 @@
                 android:id="@+id/BtStop"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:layout_margin="10dp"
                 android:text="Stopwatch"
                 android:backgroundTint="@color/Grey"/>
 
@@ -82,7 +82,7 @@
                 android:id="@+id/BtTelp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:layout_margin="10dp"
                 android:text="Call"
                 android:backgroundTint="@color/Grey"/>
 
@@ -90,7 +90,7 @@
                 android:id="@+id/button4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_margin="20dp"
+                android:layout_margin="10dp"
                 android:text="Youtube"
                 android:backgroundTint="@color/Grey"/>
 
